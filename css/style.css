@@ -229,7 +229,7 @@
         height: 520px;
         padding-top: 30px;
         padding-left: 27px;
-        background: #7778c6 url("../img/photo.png") no-repeat 50% 50%;
+        background: #7778c6 url("../img/photo.PNG") no-repeat 50% 50%;
         background-position:133px 238px;
         }
 
@@ -324,7 +324,7 @@
         }
 
     .p9 {
-        background: #557581 url("../img/headphones.jpg") no-repeat 50% 50%;
+        background: #557581 url("../img/headphones.JPG") no-repeat 50% 50%;
         background-position: -323px -154px;
         }
 
