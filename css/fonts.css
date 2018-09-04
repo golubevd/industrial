@@ -1,0 +1,22 @@
+@font-face{
+    font-family: "HKGroteskLight";
+    src: url("../fonts/HKGrotesk-Light.eot");
+    src: url("../fonts/HKGrotesk-Light.eot?#iefix")format("embedded-opentype"),
+        url(../fonts/HKGrotesk-Light.woff)format("woff"),
+        url(../fonts/Hhk-grotesk.light)format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'League Spartan';
+    src: url('../fonts/leaguespartan-bold.eot');
+    src: url('../fonts/leaguespartan-bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/leaguespartan-bold.woff2') format('woff2'),
+         url('../fonts/leaguespartan-bold.woff') format('woff'),
+         url('../fonts/leaguespartan-bold.ttf') format('truetype'),
+         url('../fonts/leaguespartan-bold.svg#league_spartanbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
